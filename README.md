@@ -1,2 +1,2 @@
 # push-swap
-in this project i implemented an optimized sorting algorithm as part of the Push_swap project
+in this project i implemented an optimized sorting algorithm as part of the Push_swap project, focused on sorting a stack of integers using a limited set of operations (push, swap, rotate, and reverse rotate). The challenge was to create a highly efficient solution with minimal operations, while ensuring accuracy and optimal time complexity. This project sharpened my understanding of sorting algorithms, data structures (stacks), and algorithmic efficiency. I applied advanced techniques such as quicksort and mergesort principles, along with in-depth performance analysis, to achieve optimal results within project constraints.
